@@ -1,0 +1,14 @@
+source /home/abernstein/.screenrc
+
+screen -t g1dlfteapp001.dev.glbt1.gdg 0 ssh abernstein@g1dlfteapp001.dev.glbt1.gdg
+
+screen -t g1dlfteapp002.dev.glbt1.gdg 1 ssh abernstein@g1dlfteapp002.dev.glbt1.gdg
+
+screen -t g1dlftefax001.dev.glbt1.gdg 2 ssh abernstein@g1dlftefax001.dev.glbt1.gdg
+
+screen -t g1dlftefax002.dev.glbt1.gdg 3 ssh abernstein@g1dlftefax002.dev.glbt1.gdg
+
+screen -t g1dlftefax03.dev.glbt1.gdg 4 ssh abernstein@g1dlftefax03.dev.glbt1.gdg
+
+screen -t g1dlfteweb01.dev.glbt1.gdg 5 ssh abernstein@g1dlfteweb01.dev.glbt1.gdg
+
