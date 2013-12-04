@@ -1,6 +1,6 @@
 #!/bin/bash
 output="source /home/$(whoami)/.screenrc\n"
-hostlist="/home/$(whoami)/_workbench/host_list"
+hostlist="./host_list"
 type=$1
 env=$2
 
