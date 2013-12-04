@@ -1,4 +1,0 @@
-source /home/abernstein/.screenrc
-screen -t g1tlfteweb01 0 ssh abernstein@g1tlfteweb01.test.glbt1.gdg
-screen -t g1tlfteweb02 1 ssh abernstein@g1tlfteweb02.test.glbt1.gdg
-
